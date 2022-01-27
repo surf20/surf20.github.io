@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "SeJong Park"
-  avatar           : "/image/images/profilephoto.jpeg"
+  avatar           : "/image/profilephoto.jpeg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
   email            :
