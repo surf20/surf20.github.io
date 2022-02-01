@@ -109,7 +109,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "Gmail"
       url: "mailto:parksejong006@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -130,9 +130,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url:"https://www.linkedin.com/in/sejong-park-60b7522b/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
