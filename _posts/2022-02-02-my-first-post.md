@@ -11,10 +11,7 @@ toc_sticky: true
 date: 2022-02-02
 last_modified_at: 2022-02-02
 ---
-hello world
-
-This is my fist __Github blog__ in my life.
-
-Main purpose of this blog is to unforget everything I learn for IT informaiton!!
-
-Hopefully it works.
+hello world  
+This is my fist __Github blog__ in my life.  
+Main purpose of this blog is to unforget everything I learn for IT informaiton!!  
+Hopefully it works.  
