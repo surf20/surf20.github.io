@@ -11,6 +11,6 @@ date: 2022-02-02
 last_modified_at: 2022-02-02
 ---
 hello world
-This is fist experience of __Github blog__ publication.
+This is the fist experience of __Github blog__ publication.
 I am so excited!!
 
