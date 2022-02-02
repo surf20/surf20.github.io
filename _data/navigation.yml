@@ -1,5 +1,5 @@
 # main links
-category1:
+main:
   - title: "Category1"
     url: "/categories/"
     children:
