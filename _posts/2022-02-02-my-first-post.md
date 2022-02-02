@@ -1,5 +1,5 @@
 ---
-title: "블로그 포스팅 첫날"
+title: "블로그 포스팅 첫날!!"
 excerpt: "조금씩 Github에 익숙해지고 있음"
 categories: 
   - Blog
