@@ -2,9 +2,9 @@
 title: "블로그 포스팅 첫날"
 excerpt: "조금씩 Github에 익숙해지고 있음"
 categories:
-- Category1
+ - Category1
 tags:
-- [Blog, first]
+ - [Blog, first]
 toc: true
 toc_sticky: true
 
