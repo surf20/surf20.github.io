@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Category1"
-    url: "/categories/"
-    children:
-      - title: "child1"
-        url: /categories/IoT_study
+  - title: "Category"
+    url: /categories/
+  #  children:
+  #   - title: "child1"
+  #     url: /categories/IoT_study
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
