@@ -15,7 +15,7 @@ last_modified_at: 2022-02-02
 ##intro  
 This is my fist __Github blog__ in my life.  
 Main purpose of this blog is to unforget everything I've learnt for IT informaiton!!  
-Hopefully it works.
+Hopefully it works.  
 ##my background  
 My education: Wageningen University
 Specialisation: Greenhouse Horticulture
