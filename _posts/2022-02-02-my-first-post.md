@@ -24,9 +24,9 @@ My goal
 intro  
 my main goal of this Blog will help me understand things I see in regards to IT.  
 
-#Hello world
-##intro
-##my background
+#Hello world  
+##intro  
+##my background  
 
-#My goal
-##intro
+#My goal  
+##intro  
