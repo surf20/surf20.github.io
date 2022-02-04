@@ -63,19 +63,19 @@ main:
  _pages 폴더를 생성한후 category-archive.md, tag-archive.md파일을 만들자.  
  아래내용으로 작성하자  
 
----  
+category-archive.md 파일에는 아래내용 넣는다. 내용 처음과 마지막에는 --- 해준다.
 title: "Posts by Category"  
 layout: categories  
 permalink: /categories/  
 author_profile: true  
----  
 
----  
+
+tag-archive.md 파일에 내용 넣는다. 내용 처음과 마지막에는 --- 해준다.
 title: "Posts by Tag"  
 permalink: /tags/  
 layout: tags  
 author_profile: true  
----  
+ 
 
 # 블로그 글 작성하기  
 _posts 폴더아래 yyyy-mm-dd-().md 작성한다.  
