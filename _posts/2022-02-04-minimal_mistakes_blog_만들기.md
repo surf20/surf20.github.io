@@ -26,7 +26,7 @@ Github.io>_config.yml로 이동한다.
 다음과 같이 추가한다.  
 
 defaults:  
-  # _posts  
+  #_posts  
   - scope:  
       path: ""  
       type: posts  
@@ -38,7 +38,7 @@ defaults:
       share: true  
       related: true  
   
-  # _pages                        : 해당 하단 영역이 새로 추가되었습니다.  
+  #_pages                        : 해당 하단 영역이 새로 추가되었습니다.  
   - scope:  
       path: "_pages"  
       type: pages  
