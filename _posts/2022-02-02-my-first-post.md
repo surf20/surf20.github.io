@@ -11,6 +11,7 @@ author_profile: false
 date: 2022-02-02
 last_modified_at: 2022-02-02
 ---
+Hello world ~
 This is my fist __Github blog__ in my life.  
 Main purpose of this blog is to unforget everything I've learnt for IT informaiton!!  
 Hopefully it works.  
