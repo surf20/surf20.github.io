@@ -37,7 +37,7 @@ defaults:
       share: true  
       related: true  
   
-  # _pages                        : 해당 하단 영역이 새로 추가되었습니다.
+  # _pages                        : 해당 하단 영역이 새로 추가되었습니다.  
   - scope:  
       path: "_pages"  
       type: pages  
@@ -49,10 +49,10 @@ defaults:
 만약 Category 와 Tag를 만든다면  
 다음과 같이 수정한다.  
 
-# main links  
+main links  
 main:  
-  #- title: "Home"  
-  #  url: "/"  
+   title: "Home"  
+   url: "/"  
   - title: "Introduce"  
     url: /about/  
   - title: "Category"  
