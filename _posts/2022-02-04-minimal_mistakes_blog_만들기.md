@@ -1,6 +1,6 @@
 ---
 title: "블로그 만들기"
-excerpt: "조금씩 Github에 익숙해지고 있음"
+excerpt: ""
 categories: 
   - Blog
 tags: 
