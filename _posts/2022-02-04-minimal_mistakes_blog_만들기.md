@@ -1,6 +1,6 @@
 ---
-title: "Github 블로그 만들기"
-excerpt: "블로그 만들기 기억하기"
+title: "블로그 만들기"
+excerpt: "github blog making 기억하기"
 categories: 
   - Blog
 tags: 
@@ -9,6 +9,7 @@ toc: true
 toc_sticky: true
 author_profile: false
 date: 2022-02-05
+last_modified_at: 2022-02-05
 ---
 
 # 로컬 컴퓨터에서 커밋하기  
