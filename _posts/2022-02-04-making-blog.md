@@ -1,6 +1,6 @@
 ---
-title: "블로그 만들기"
-excerpt: "github blog making 기억하기"
+title: "Github블로그 만들기"
+excerpt: "minimal mistakes"
 categories: 
   - Blog
 tags: 
