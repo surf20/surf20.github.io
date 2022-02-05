@@ -22,6 +22,10 @@ Github.io>_config.yml로 이동한다.
 
 {% gist surf20/a85dd932264eeec728675f1c684b3de6 %}
 
+_pages 폴더를 생성한후 category-archive.md, tag-archive.md파일을 만들자.  
+ 아래내용으로 작성하자 
+ 
+{% gist surf20/906e9529b7f4fc86b4f88cbdc474819d %}
 
 
 
