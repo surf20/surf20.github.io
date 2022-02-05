@@ -1,3 +1,16 @@
+---
+title: "로컬환경에서 github blog 작업하기"
+excerpt: "ubuntu"
+categories: 
+  - Blog
+tags: 
+  - [Github,Blog]
+toc: true
+toc_sticky: true
+author_profile: false
+date: 2022-02-02
+last_modified_at: 2022-02-02
+---
 먼저 bundler를 설치해준다.  
 gem이 안될경우 ruby설치한다. 
 
