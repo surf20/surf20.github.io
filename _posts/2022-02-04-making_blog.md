@@ -46,13 +46,13 @@ main:
  
  _pages 폴더를 생성한후 category-archive.md, tag-archive.md파일을 만들자.  
  아래내용으로 작성하자  
-{% gist surf20/906e9529b7f4fc86b4f88cbdc474819d.js %}
+{% gist surf20/906e9529b7f4fc86b4f88cbdc474819d %}
 
 
 # 블로그 글 작성하기  
 _posts 폴더아래 yyyy-mm-dd-Github블로그만들기.md 작성한다.  
 내용 적기전 머리말엔 다음 포함한다.  
-{% gist surf20/3320a95addb2b6198edc4124fb396572.js %}
+{% gist surf20/3320a95addb2b6198edc4124fb396572 gist %}
 
 # 나의 블로그에 search 넣기  
 Github.io>_config.yml이동하여 아래 내용대로 수정한다.  
