@@ -35,9 +35,9 @@ search: true
 
 # 나의 블로그에 코딩 집어넣기
 Gisthub의 화면 좌측 상단에 + 클릭 > create gist를 클릭한다.
-문서명.yml
-내용 기입후 create한다. > embed 링크 복사하면 다음과 같이 될것이다.  
-해당 링크에서 surf20/3320a95addb2b6198edc4124fb396572을 {%gist %} 안에 gist 다음위치에 복사해서 넣어준후 posting할 내용에 링크를 paste해주면
+문서명.yml으로 한다. 내용 기입후 create한다. 이후 생성된 embed의  
+해당 링크에서 surf20/3320a95addb2b6198edc4124fb396572 (예제) 만 복사한다. 
+{%gist 해당링크 %}을 posting할 내용에 링크에 paste해주면 
 
 
 
