@@ -51,7 +51,7 @@ main:
 
 # 블로그 글 작성하기  
 _posts 폴더아래 yyyy-mm-dd-Github블로그만들기.md 작성한다.  
-내용 적기전 머리말엔 다음 포함한다.
+내용 적기전 머리말엔 다음 포함한다.  
 {% gist surf20/3320a95addb2b6198edc4124fb396572.js %}
 
 # 나의 블로그에 search 넣기  
@@ -61,7 +61,7 @@ search: true
 # 나의 블로그에 코딩 집어넣기
 Gisthub의 화면 좌측 상단에 + 클릭 > create gist를 클릭한다.
 문서명.yml
-내용 기입후 create한다. > embed 링크 복사하면 다음과 같이 될것이다.
+내용 기입후 create한다. > embed 링크 복사하면 다음과 같이 될것이다.  
 <script src="https://gist.github.com/surf20/3320a95addb2b6198edc4124fb396572.js"></script>
 이 포맷에서 surf20/3320a95addb2b6198edc4124fb396572을 {%gist %}안에 gist 다음위치에 복사해서 넣어준후 posting할 내용에 링크를 paste해주면  
 
