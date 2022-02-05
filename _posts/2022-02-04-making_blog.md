@@ -37,7 +37,7 @@ search: true
 Gisthub의 화면 좌측 상단에 + 클릭 > create gist를 클릭한다.
 문서명.yml으로 한다. 내용 기입후 create한다. 이후 생성된 embed의  
 해당 링크에서 surf20/3320a95addb2b6198edc4124fb396572 (예제) 만 복사한다. 
-{%gist 해당링크 %}을 posting할 내용에 링크에 paste해주면 
+{%gist 해당링크 %}을 posting할 내용에 링크에 paste해주면 코딩이 
 
 
 
