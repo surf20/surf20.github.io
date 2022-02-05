@@ -24,7 +24,7 @@ git push origin master
 Github 사이트에서 계정을 만든다.  
 Github.io>_config.yml로 이동한다.  
 다음과 같이 추가한다.  
-
+'''md
 defaults:  
   #_posts  
   - scope:  
@@ -45,6 +45,7 @@ defaults:
     values:  
       layout: single  
       author_profile: true  
+'''
 
 수정 파일 : github.io 폴더 > _data 폴더 > navigation.yml  
 만약 Category 와 Tag를 만든다면  
