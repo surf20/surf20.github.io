@@ -18,31 +18,7 @@ last_modified_at: 2022-02-05
 # Github blog 만들기  
 Github 사이트에서 계정을 만든다.  
 Github.io>_config.yml로 이동한다.  
-다음과 같이 _pages 내용 추가한다.  
-
-defaults:    
-  // _pages                        : 해당 하단 영역이 새로 추가되었습니다.  
-  - scope:  
-      path: "_pages"  
-      type: pages  
-    values:  
-      layout: single  
-      author_profile: true  
-
-수정 파일 : github.io 폴더 > _data 폴더 > navigation.yml  
-만약 Category 와 Tag를 만든다면  
-다음과 같이 수정한다.  
-
-main links  
-main:  
-   title: "Home"  
-   url: "/"  
-  - title: "Introduce"  
-    url: /about/  
-  - title: "Category"  
-    url: "/categories/"  
-  - title: "Tags"  
-    url: /tags/  
+{% gist surf20/a85dd932264eeec728675f1c684b3de6 %}
  
  _pages 폴더를 생성한후 category-archive.md, tag-archive.md파일을 만들자.  
  아래내용으로 작성하자  
