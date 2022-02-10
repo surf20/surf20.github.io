@@ -1,14 +1,14 @@
 ---
-title: "화분에 자동으로 물주기"
-excerpt: "아두이노 활용"
+title: "화분에 자동 물주기"
+excerpt: "아두이노"
 categories: 
-  - Python
+  - IoT
 tags: 
-  - [Python, Arduino]
+  - [Arduino]
 toc: true
 toc_sticky: true
 author_profile: false
-date:2022-02-09
+date: 2022-02-09
 last_modified_at: 2022-02-09
 ---
 
