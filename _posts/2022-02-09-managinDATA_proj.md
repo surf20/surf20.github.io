@@ -1,17 +1,5 @@
 ---
 title: "Data 분석에 필요한 Python 코딩"
-excerpt: "파이썬 배우기"
-categories: 
-  - Python
-tags: 
-  - [Python]
-toc: true
-toc_sticky: true
-date:2022-02-09
-last_modified_at: 2022-02-09
----
----
-title: "Data 분석에 필요한 Python 코딩"
 excerpt: "Python"
 categories: 
   - Python
