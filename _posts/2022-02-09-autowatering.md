@@ -7,6 +7,7 @@ tags:
   - [Python, Arduino]
 toc: true
 toc_sticky: true
+author_profile: false
 date:2022-02-09
 last_modified_at: 2022-02-09
 ---
